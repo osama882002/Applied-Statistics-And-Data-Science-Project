@@ -28,7 +28,7 @@ Assignment-9-Applied-Statistics/
 
 ├── data/
 │   └── raw/
-│       └── chess_games.csv
+│       └── chess_clean.csv
 │
 ├── notebook/
 │   └── Assignment_9_Analysis.ipynb
