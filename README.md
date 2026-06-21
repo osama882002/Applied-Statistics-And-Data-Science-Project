@@ -248,6 +248,11 @@ Skewness = -0.90
 ```
 
 The extreme right tail was reduced significantly.
+---
+
+### Distribution Visualization
+
+![Distribution Analysis](output/charts/distributions_analysis.png)
 
 ---
 
@@ -292,6 +297,11 @@ Higher GDP can lead to:
 * Lower mortality rates
 
 Therefore, GDP may partially explain the relationship between education and life expectancy.
+---
+
+### Correlation Heatmap
+
+![Correlation Heatmap](output/charts/correlation_heatmap.png)
 
 ---
 
@@ -354,6 +364,12 @@ Cramér's V = 0.038
 shows a very small practical effect.
 
 The relationship exists statistically but has limited real-world impact.
+
+---
+
+### Chi-Square Visualization
+
+![Chi Square Results](output/charts/chi_square_outcomes.png)
 
 ---
 
@@ -421,6 +437,12 @@ Mean:
 ```text
 (53.2 , 55.3)
 ```
+---
+
+### Confidence Interval Plot
+
+![Confidence Intervals](output/charts/confidence_intervals.png)
+
 
 ---
 
